@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dharanidharan%20T&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=62&descSize=16"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Dharanidharan+T+%F0%9F%91%8B;Full-Stack+Developer+%7C+MERN+%2B+Django;AI%2FML+Builder+%7C+Hackathon+Winner+%F0%9F%8F%86;LeetCode+250%2B+%7C+Skillrank+1150%2B+Solved+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Dharanidharan+T+%F0%9F%91%8B;Full-Stack+Developer+%7C+MERN+%2B+Django;AI%2FML+Builder;LeetCode+250%2B+%7C+Skillrank+1150%2B+Solved+%F0%9F%94%A5" alt="Typing SVG" />
 </div>
 
 <br/>
