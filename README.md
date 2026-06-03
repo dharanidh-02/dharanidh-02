@@ -15,7 +15,7 @@
 ```python
 class Dharanidharan:
     name        = "Dharanidharan T"
-    location    = "Tamil Nadu, India 🇮🇳"
+    location    = "Pollachi , Tamil Nadu, India 🇮🇳"
     degree      = "B.Tech CSBS @ Sri Eshwar College of Engineering (2024–2028)"
     
     stack       = [
@@ -32,7 +32,7 @@ class Dharanidharan:
         "Advanced DSA & Competitive Programming"
     ]
     
-    fun_fact    = "I led 4 hackathon teams in 2025 and won 🏆"
+    fun_fact    = "I led 4 hackathon teams in 2025 🏆"
     
     def motto(self):
         return "Build fast. Break things. Learn faster. 🚀"
