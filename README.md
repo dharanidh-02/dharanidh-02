@@ -15,7 +15,7 @@
 ```python
 class Dharanidharan:
     name        = "Dharanidharan T"
-    location    = "Pollachi , Tamil Nadu, India 🇮🇳"
+    location    = "Pollachi, Tamil Nadu, India 🇮🇳"
     degree      = "B.Tech CSBS @ Sri Eshwar College of Engineering (2024–2028)"
     
     stack       = [
@@ -32,7 +32,7 @@ class Dharanidharan:
         "Advanced DSA & Competitive Programming"
     ]
     
-    fun_fact    = "I led 4 hackathon teams in 2025 🏆"
+    fun_fact    = "I led 4 hackathon teams in 2025 "
     
     def motto(self):
         return "Build fast. Break things. Learn faster. 🚀"
@@ -71,8 +71,8 @@ class Dharanidharan:
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
 **Databases**
 
@@ -95,11 +95,11 @@ class Dharanidharan:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/DharanidhranT">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DharanidhranT&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <a href="https://github.com/dharanidh-02">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dharanidh-02&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
   </a>
-  <a href="https://github.com/DharanidhranT">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharanidhranT&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <a href="https://github.com/dharanidh-02">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharanidh-02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
   </a>
 </div>
 
@@ -108,7 +108,7 @@ class Dharanidharan:
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=DharanidhranT&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=dharanidh-02&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak Stats"/>
 </div>
 
 ---
@@ -116,7 +116,7 @@ class Dharanidharan:
 ## 📈 Activity Graph
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DharanidhranT&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dharanidh-02&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ---
@@ -124,7 +124,7 @@ class Dharanidharan:
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DharanidhranT&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=dharanidh-02&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
 </div>
 
 ---
@@ -142,16 +142,6 @@ class Dharanidharan:
   - ☁️ Deployed on **AWS** with MongoDB Atlas as the data layer and Node.js powering all backend services.
 </details>
 
-<details>
-  <summary>📚 <strong>Managing Editor (Part-Time)</strong> — Yatiraja Scholarly Press | 2025–Present</summary>
-  <br/>
-  > `Editorial Workflow` `Canva` `WordPress` `Content Management`
-
-  - 📖 Managed end-to-end **academic book publication workflows** and editorial review processes.
-  - 🎨 Designed **book covers and promotional materials** using Canva for multiple publications.
-  - 🌐 Maintained the publishing **website and updated book listings** to keep content current.
-  - 🤝 Coordinated directly with authors throughout **manuscript preparation and final publication** stages.
-</details>
 
 ---
 
@@ -161,11 +151,11 @@ class Dharanidharan:
 
 | Project | Stack | Highlights |
 |---|---|---|
-| 🤖 [**GigShield**](https://github.com/DharanidhranT) — Parametric Insurance Platform | React.js · Node.js · MongoDB · Python | AI-powered parametric insurance for gig workers; dynamic premium calc, fraud detection & instant payout simulation |
-| 💧 [**AquaGrid AI**](https://github.com/DharanidhranT) — Water Stress Prediction Platform | Full-Stack · IoT · ML · Real-time Analytics | Smart water monitoring with role-based dashboards, leak detection, automated billing & IoT-based tank alerts |
-| 🧠 [**StudyCore**](https://github.com/DharanidhranT) — AI Study Assistant | IBM Granite · Gemini AI · YouTube API · Python | PDF Q&A engine with AI-generated answers & personalised YouTube video recommendations for students |
-| 🪨 [**Rocksense**](https://github.com/DharanidhranT) — AI Rockfall Prediction System | YOLO · Deep Learning · Python · Sensors | YOLO-based crack detection + real-time risk scoring to trigger automated safety alerts in open-pit mines |
-| 😊 [**Serena AI**](https://github.com/DharanidhranT) — Emotional Intelligence App | HTML · CSS · JS · Django · MongoDB | Chatbot + voice-to-text + face recognition for real-time sentiment analysis; won **2nd Prize** at Freshaton |
+| 🤖 [**GigShield**](https://github.com/dharanidh-02) — Parametric Insurance Platform | React.js · Node.js · MongoDB · Python | AI-powered parametric insurance for gig workers; dynamic premium calc, fraud detection & instant payout simulation |
+| 💧 [**AquaGrid AI**](https://github.com/dharanidh-02) — Water Stress Prediction Platform | Full-Stack · IoT · ML · Real-time Analytics | Smart water monitoring with role-based dashboards, leak detection, automated billing & IoT-based tank alerts |
+| 🧠 [**StudyCore**](https://github.com/dharanidh-02) — AI Study Assistant | IBM Granite · Gemini AI · YouTube API · Python | PDF Q&A engine with AI-generated answers & personalised YouTube video recommendations for students |
+| 🪨 [**Rocksense**](https://github.com/dharanidh-02) — AI Rockfall Prediction System | YOLO · Deep Learning · Python · Sensors | YOLO-based crack detection + real-time risk scoring to trigger automated safety alerts in open-pit mines |
+| 😊 [**Serena AI**](https://github.com/dharanidh-02) — Emotional Intelligence App | HTML · CSS · JS · Django · MongoDB | Chatbot + voice-to-text + face recognition for real-time sentiment analysis; won **2nd Prize** at Freshaton |
 
 </div>
 
@@ -185,20 +175,6 @@ class Dharanidharan:
 | 🔥 | **Skillrank — 1150+ Problems Solved** | 14 Certificates · 325+ Bronzes |
 | ☁️ | **Google Cloud Skills Boost** | Bronze + Silver + Gold + **Diamond** Badges · 49+ Badges earned |
 | ⭐ | **HackerRank** | 3★ in C · 2★ in Python · 3★ in SQL |
-
-</div>
-
----
-
-## 🎓 Education
-
-<div align="center">
-
-| Degree | Institution | Year | Score |
-|---|---|---|---|
-| 🎓 B.Tech — CSBS | Sri Eshwar College of Engineering | 2024–2028 | CGPA: **8.07** (Upto 3rd Sem) |
-| 📘 HSC (Class XII) | Oxford Matric Higher Sec School | 2023–2024 | **80%** |
-| 📗 SSLC (Class X) | Vidya Nethrra Matric Higher Sec School | 2021–2022 | **75%** |
 
 </div>
 
@@ -247,7 +223,7 @@ class Dharanidharan:
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/dharanidharant)
 [![SkillRack](https://img.shields.io/badge/SkillRack-00C853?style=flat-square&logo=codeforces&logoColor=white)](https://www.skillrack.com/faces/resume.xhtml?id=514797&key=79cd5fc9a977158524d4eaee835e8e0bcb367584)
 
-![Profile Views](https://komarev.com/ghpvc/?username=DharanidhranT&color=70a5fd&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=dharanidh-02&color=70a5fd&style=flat-square&label=Profile+Views)
 
 </div>
 
