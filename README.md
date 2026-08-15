@@ -22,7 +22,7 @@
 
 B.Tech Computer Science & Business Systems student at Sri Eshwar College of Engineering (2024–2028), based in Pollachi, Tamil Nadu. I build full-stack applications and AI/ML systems, with a track record of leading hackathon teams from concept to working prototype.
 
-**CGPA:** 8.07 &nbsp;|&nbsp; **Location:** Pollachi, Tamil Nadu, India &nbsp;|&nbsp; **Status:** Open to internships
+**CGPA:** 8.30 &nbsp;|&nbsp; **Location:** Pollachi, Tamil Nadu, India &nbsp;|&nbsp; **Status:** Open to internships
 
 </td>
 <td width="40%" valign="top">
@@ -31,8 +31,8 @@ B.Tech Computer Science & Business Systems student at Sri Eshwar College of Engi
 
 | | |
 |---|---|
-| Hackathon teams led | 5 |
-| LeetCode solved | 250+ |
+| Hackathon teams led | 10 |
+| LeetCode solved | 280+ |
 | SkillRack solved | 1,150+ |
 | GCloud Skills Boost | Diamond |
 
