@@ -202,16 +202,16 @@ Generative AI (LLMs, prompt engineering, Gemini API, IBM Granite) &nbsp;·&nbsp;
 ## GitHub Activity
 
 <div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=dharanidh-02&show_icons=true&theme=default&hide_border=true" alt="Dharanidharan's GitHub stats"/>
+<img height="160" src="https://github-stats-extended.vercel.app/api?username=dharanidh-02&show_icons=true&theme=default&hide_border=true" alt="Dharanidharan's GitHub stats"/>
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharanidh-02&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top languages"/>
+<img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dharanidh-02&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top languages"/>
 </div>
 
 <div align="center">
 <img width="70%" src="https://streak-stats.demolab.com?user=dharanidh-02&theme=default&hide_border=true" alt="GitHub streak stats"/>
 </div>
 
-<sub>If these badges don't render: they load from a shared public service (vercel.app / demolab.com) that occasionally rate-limits or goes down — GitHub itself has no control over this. Reload the page after a minute, or confirm the images work by opening the image URL directly in a new tab.</sub>
+<sub>These badges load from free public services (github-stats-extended.vercel.app / demolab.com). If one ever stops rendering, it's the third-party service having downtime, not this file — just wait a bit or check the service's own status.</sub>
 
 ---
 
