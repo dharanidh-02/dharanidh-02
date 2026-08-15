@@ -165,15 +165,16 @@ Chatbot with voice-to-text and facial recognition for sentiment analysis. 2nd Pr
 ## Achievements
 
 <table align="center" width="100%">
-<tr><td width="35%"><b>Smart India Hackathon 2025</b></td><td>Round 3 · Team Lead, Rocksense AI Rockfall Prediction System</td></tr>
-<tr><td><b>PALS InnoWah</b></td><td>Finalist · Team Lead, Hardware + AI Rockfall Alert System</td></tr>
-<tr><td><b>Freshaton 2025</b></td><td>2nd Prize · Serena AI, department-level competition</td></tr>
-<tr><td><b>Gen AI Hackathon, SmartBridge</b></td><td>Team Lead, StudyCore · IBM SkillsBuild GenAI certified</td></tr>
-<tr><td><b>LeetCode</b></td><td>250+ solved · Max rating 1,430 · Global rank 615,084</td></tr>
-<tr><td><b>SkillRack</b></td><td>1,150+ solved · 14 certificates · 325+ bronzes</td></tr>
-<tr><td><b>Google Cloud Skills Boost</b></td><td>Diamond tier · 49+ badges</td></tr>
-<tr><td><b>HackerRank</b></td><td>3★ C · 2★ Python · 3★ SQL</td></tr>
+<tr><th align="left" width="55%">Achievement</th><th align="left">Year</th></tr>
+<tr><td><b>Finalist</b> — PALS InnoWAH! Hackathon, IIT Madras (Top 64 Teams)</td><td>2026</td></tr>
+<tr><td><b>Third Prize</b> — SECE Mini Project Exhibition</td><td>2026</td></tr>
+<tr><td><b>Top 50</b> — Smart India Hackathon Internal Selection</td><td>2025</td></tr>
+<tr><td><b>Department Rank 1</b> — SkillRack Coding Leaderboard</td><td>2025</td></tr>
+<tr><td><b>Second Prize</b> — Freshathon Project Expo</td><td>2025</td></tr>
+<tr><td><b>Third Prize</b> — Sell It Competition</td><td>2024</td></tr>
 </table>
+
+<sub>Coding profiles: LeetCode — 250+ solved, max rating 1,430, global rank 615,084 &nbsp;·&nbsp; SkillRack — 1,150+ solved, 14 certificates, 325+ bronzes &nbsp;·&nbsp; Google Cloud Skills Boost — Diamond tier, 49+ badges &nbsp;·&nbsp; HackerRank — 3★ C, 2★ Python, 3★ SQL</sub>
 
 <br/>
 
@@ -181,13 +182,13 @@ Chatbot with voice-to-text and facial recognition for sentiment analysis. 2nd Pr
 
 <table align="center" width="100%">
 <tr><th align="left">Certification</th><th align="left">Issuer</th><th align="left">Year</th></tr>
-<tr><td>C &amp; C++ Training</td><td>IIT Bombay</td><td>2024</td></tr>
 <tr><td>AI Fundamentals</td><td>IBM</td><td>2026</td></tr>
+<tr><td>AI/ML for Geodata Analysis</td><td>ISRO</td><td>2026</td></tr>
+<tr><td>Generative AI in Everyday Life</td><td>SWAYAM IGNOU</td><td>2026</td></tr>
 <tr><td>Deep Learning with PyTorch: Image Segmentation</td><td>Coursera</td><td>2025</td></tr>
 <tr><td>Deep Learning with PyTorch: Object Localization</td><td>Coursera</td><td>2025</td></tr>
 <tr><td>Generative AI — IBM SkillsBuild</td><td>IBM / SmartBridge</td><td>2025</td></tr>
-<tr><td>AI/ML for Geodata Analysis</td><td>ISRO</td><td>2026</td></tr>
-<tr><td>Generative AI in Everyday Life</td><td>SWAYAM IGNOU</td><td>2026</td></tr>
+<tr><td>C &amp; C++ Training</td><td>IIT Bombay</td><td>2024</td></tr>
 </table>
 
 <br/>
